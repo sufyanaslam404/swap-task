@@ -3,7 +3,7 @@
 1. **Clone the Repository**: Download the code to your computer by running the following command in your terminal:
 
     ```
-    git remote add origin https://github.com/sufyanaslam404/swap-task.git
+    git clone https://github.com/sufyanaslam404/swap-task.git
     ```
 
 2. **Install Hardhat**: If you haven't already, install Hardhat globally on your machine by running:
@@ -15,7 +15,7 @@
 3. **Set up Hardhat**: Navigate to the project directory and run the following command to set up Hardhat:
 
     ```
-    cd uniswap-eth-to-usdc
+    cd HardHat
     npx hardhat
     ```
 
@@ -56,13 +56,13 @@ Follow these steps to run the project:
 1. **Clone the Repository**: Download the code to your computer by running the following command in your terminal:
 
     ```
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/sufyanaslam404/swap-task.git
     ```
 
 2. **Navigate to the Project Directory**: Change into the project directory:
 
     ```
-    cd your-project-directory
+    cd your-project-director
     ```
 
 3. **Install Dependencies**: Install the required dependencies for both the front end and back end:
@@ -70,7 +70,7 @@ Follow these steps to run the project:
     ```
     cd client
     npm install or yarn install 
-    cd ../server
+    cd server
     npm install or yarn install 
 
     ```
@@ -86,7 +86,7 @@ Follow these steps to run the project:
 5. **Run the Client**: Open a new terminal window/tab and navigate to the `client` directory:
 
     ```
-    cd ../client
+    cd client
     npm run dev  or yarn run dev 
    
     ```
